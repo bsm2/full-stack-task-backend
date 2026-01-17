@@ -9,7 +9,7 @@ A Laravel-based REST API for managing tasks with user authentication, task creat
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/full-stack-task-backend
+git clone https://github.com/bsm2/full-stack-task-backend.git
 cd full-stack-task-backend
 ```
 
