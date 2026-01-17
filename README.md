@@ -9,8 +9,8 @@ A Laravel-based REST API for managing tasks with user authentication, task creat
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/task-api.git
-cd task-api
+git clone https://github.com/your-username/full-stack-task-backend
+cd full-stack-task-backend
 ```
 
 2. **Install dependencies**
@@ -122,8 +122,8 @@ DB_PASSWORD=secret
 - **Payload:**
 ```json
 {
-  "email": "john@example.com",
-  "password": "password123"
+  "email": "admin@example.com",
+  "password": "password"
 }
 ```
 - **Response:** Returns `token`, and `user`.
